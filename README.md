@@ -1,2 +1,2 @@
-# RCM - Showcase
-A RAT that uses reverse shell with Discord - Closed Source &amp; Payment needed
+# RCM - Showcase 
+<img src="RCM.gif" width="800"/> [`Join The Discord Server`](https://discord.gg/eZp4FyWhYv)
